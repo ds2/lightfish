@@ -11,3 +11,7 @@ lightview/package-standalone.sh
 lightview/package-webstart.sh
 lightfish/createDomainLighfish.sh
 lightfish/deploy.sh
+.settings
+.classpath
+.project
+
